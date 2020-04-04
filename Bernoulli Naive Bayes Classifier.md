@@ -5,4 +5,4 @@
 * Bernoulli event model is popular for classifying ::short texts::.
 * `Pr(x_j | C_k)` is the Bernoulli distribution PDF, shown below.
 
-![](Images/Screen%20Shot%202020-02-23%20at%2012.43.14%20PM.png)
+![](Images/Screen Shot 2020-02-23 at 12.43.14 PM.png)

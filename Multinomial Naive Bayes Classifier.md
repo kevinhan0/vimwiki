@@ -5,7 +5,7 @@
 * `Pr(x_j | C_k)` is the multinomial distribution PDF, shown below.
 * Thus, the multinomial naive Bayes classifier is linear in log-space.
 
-![](Images/Screen%20Shot%202020-02-23%20at%2012.27.41%20PM.png)
+![](Images/Screen Shot 2020-02-23 at 12.27.41 PM.png)
 
-![](Images/Screen%20Shot%202020-02-23%20at%2012.28.12%20PM.png)
+![](Images/Screen Shot 2020-02-23 at 12.28.12 PM.png)
 

@@ -17,7 +17,7 @@
     * `log[P(Y=k|X) / [1 - P(Y=k|X)]] = ß_0 + ß_1X`.
 * We get a linear equation in `X` that models the log odds or logit, which can be solved using maximum likelihood estimation.
 
-![](Images/Screen%20Shot%202020-02-22%20at%2011.28.11%20AM.png)
+![](Images/Screen Shot 2020-02-22 at 11.28.11 AM.png)
 
 ----
 

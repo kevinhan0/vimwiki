@@ -7,7 +7,7 @@
 * For L1 regularization, the intersection occurs where `ß_2=t` and `ß_1=0`. This explains why L1 regularization leads to coefficients with zero as their value. (Note: this also applies to higher dimensions.)
 * For L2 regularization, the intersection occurs where `ß_2≈t` and `ß_1≈0`. This explains why L2 regularization have coefficients whose value infinitesimally approach zero but never equals zero.
 
-![](Images/Screen%20Shot%202020-02-13%20at%2012.12.00%20PM.png)
+![](Images/Screen Shot 2020-02-13 at 12.12.00 PM.png)
 
 ----
 

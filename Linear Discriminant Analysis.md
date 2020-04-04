@@ -39,7 +39,8 @@
     * As shown in the figure below, `μ_1 < x* < μ_2`.
 * A classification rule based on this would be:
     * `yhat = C_1` if `x < x*` else `yhat = C_2`.
-    * And the corresponding classification error is `P(error) = P(x>x* | x∈C_1) + P(x<x* | x∈C_2)`.
+    * And the corresponding classification error is `P(error) = P(x>x* |
+      x∈C_1)P(x∈C_1) + P(x<x* | x∈C_2)P(x∈C_2)`.
     * To minimize the error, we solve for the following equation `(x*)argmin(P(error)) = ∂P(error)/∂x* = 0`.
 * The result above gives us the following: ::(A):: `f_1(x)π_1 - f_2(x)π_2 = 0`, where
     * `f_k(x)` is the PDF of `X` in the subset of class `k`.
@@ -53,11 +54,11 @@
     * `Chat(x) = C_1` if `δ(x) < 0` else `Chat(x) = C_2`.
     * And the decision boundary is linear.
 
-![](Images/Screen%20Shot%202020-02-21%20at%2012.17.20%20PM.png)
+![](Images/Screen Shot 2020-02-21 at 12.17.20 PM.png)
 
-![](Images/Screen%20Shot%202020-02-21%20at%2012.40.00%20PM.png)
+![](Images/Screen Shot 2020-02-21 at 12.40.00 PM.png)
 
-![](Images/Screen%20Shot%202020-02-21%20at%2012.43.37%20PM.png)
+![](Images/Screen Shot 2020-02-21 at 12.43.37 PM.png)
 
 ----
 
@@ -68,7 +69,7 @@
 * The classification rule for `δ(x)` remains the same.
 * In this case, the decision boundary is quadratic.
 
-![](Images/Screen%20Shot%202020-02-21%20at%2012.50.43%20PM.png)
+![](Images/Screen Shot 2020-02-21 at 12.50.43 PM.png)
 
 ----
 

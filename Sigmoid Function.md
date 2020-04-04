@@ -10,6 +10,6 @@
     * etc.
 * A nice property of the logistic function is that it maps input `x ∈ (-∞, ∞)` to `S(x) ∈ [0, 1]`.
 
-![](Logistic%20Regression/600px-Logistic-curve.svg.png)
+![](Logistic Regression/600px-Logistic-curve.svg.png)
 
-![](Logistic%20Regression/700px-Gjl-t(x).svg.png)
+![](Logistic Regression/700px-Gjl-t(x).svg.png)

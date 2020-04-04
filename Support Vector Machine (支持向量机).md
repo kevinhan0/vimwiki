@@ -15,7 +15,7 @@
 * The optimal hyperplane is one that creates the biggest margin (better generalizability) between the training points for class 1 and -1.
 * `(ß,ß_0,||ß||=1)max M` subject to the constraint `y_i * [(x_i)Tß + ß_0]≥M, ∀i`. The inequality means all training examples lie outside the margin.
 
-![](Images/Screen%20Shot%202020-02-09%20at%203.13.20%20PM.png)
+![](Images/Screen Shot 2020-02-09 at 3.13.20 PM.png)
 
 ----
 
@@ -26,4 +26,4 @@
 * Thus, the concept of a linear SVM with soft margin can be expressed as: `(ß_0, ß) min (1/2)||ß||**2+C*(i=1 to N)∑ξ_i` subject to the constraint `ξ_i≥0, y_i * [(x_i)Tß + ß_0]≥1-ξ, ∀i`.
 * The cost parameter  `C` is inversely proportional to the size of the margin `M`. Thus, the higher value of `C` , the higher the variance, and vice versa.
 
-![](Images/Screen%20Shot%202020-02-09%20at%203.13.28%20PM.png)
+![](Images/Screen Shot 2020-02-09 at 3.13.28 PM.png)

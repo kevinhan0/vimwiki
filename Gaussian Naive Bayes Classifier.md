@@ -4,4 +4,4 @@
 * `Pr(x_j | C_k)` is the Gaussian distribution PDF, shown below.
 * Another common way of handling continuous features is to use ::binning to discretize:: the features to obtain a new set of Bernoulli-distributed features.
 
-![](Images/Screen%20Shot%202020-02-23%20at%203.37.38%20PM.png)
+![](Images/Screen Shot 2020-02-23 at 3.37.38 PM.png)

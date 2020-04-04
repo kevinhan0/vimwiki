@@ -21,9 +21,9 @@
         6. Calculate `W(C_b) = (k=1 to K)∑[N_k] * (C_b(i)=k)∑||x_i - xbar_k||^2`, where `C_b` is cluster assignment for iteration `b`.
     * Choose the cluster assignment with the lowest within-point scatter, i.e., `(b) argmin W(C_b)`.
 
-![](Images/Screen%20Shot%202020-02-17%20at%202.20.00%20PM.png)
+![](Images/Screen Shot 2020-02-17 at 2.20.00 PM.png)
 
-![](Images/Screen%20Shot%202020-02-17%20at%202.22.23%20PM.png)
+![](Images/Screen Shot 2020-02-17 at 2.22.23 PM.png)
 
 ----
 
@@ -39,7 +39,7 @@
 
 ![](Images/sphx_glr_plot_kmeans_assumptions_001.png)
 
-![](Images/Screen%20Shot%202020-02-17%20at%202.09.05%20PM.png)
+![](Images/Screen Shot 2020-02-17 at 2.09.05 PM.png)
 
 ![](Images/BILDt.png)
 
@@ -47,5 +47,5 @@
 
 ### Vector Quantization Application
 
-![](Images/Screen%20Shot%202020-02-17%20at%204.10.03%20PM.png)
+![](Images/Screen Shot 2020-02-17 at 4.10.03 PM.png)
 
